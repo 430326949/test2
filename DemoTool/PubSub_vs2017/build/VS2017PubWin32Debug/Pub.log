@@ -1,0 +1,29 @@
+﻿  IDL_DataReader.cpp
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\pub\idl_datareader.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\pub\idl_datareader.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(105): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(63): note: 编译 类 模板 成员函数 "bool sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::set_maximum(unsigned long)" 时
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(41): note: 参见对正在编译的函数 模板 实例化“bool sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::set_maximum(unsigned long)”的引用
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(5): note: 编译 类 模板 成员函数 "sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::sequence(void)" 时
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\qospolicy.h(653): note: 参见对正在编译的函数 模板 实例化“sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::sequence(void)”的引用
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(600): note: 参见对正在编译的 类 模板 实例化 "sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>" 的引用
+  IDL_DataWriter.cpp
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(105): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(63): note: 编译 类 模板 成员函数 "bool sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::set_maximum(unsigned long)" 时
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(41): note: 参见对正在编译的函数 模板 实例化“bool sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::set_maximum(unsigned long)”的引用
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(5): note: 编译 类 模板 成员函数 "sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::sequence(void)" 时
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\qospolicy.h(653): note: 参见对正在编译的函数 模板 实例化“sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::sequence(void)”的引用
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(600): note: 参见对正在编译的 类 模板 实例化 "sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>" 的引用
+  IDL_UserDataType.cpp
+  pub.cpp
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\pub\pub.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\pub\pub.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\pub\pub.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(105): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(63): note: 编译 类 模板 成员函数 "bool sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::set_maximum(unsigned long)" 时
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(41): note: 参见对正在编译的函数 模板 实例化“bool sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::set_maximum(unsigned long)”的引用
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(5): note: 编译 类 模板 成员函数 "sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::sequence(void)" 时
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\qospolicy.h(653): note: 参见对正在编译的函数 模板 实例化“sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::sequence(void)”的引用
+  c:\users\home\downloads\udds_vs2017_trial\udds_vs2017_trial\快速开发资源\demotool\pubsub_vs2017\lib\udds\include\seq\sequence.template(600): note: 参见对正在编译的 类 模板 实例化 "sequence<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>" 的引用
+  正在生成代码...
+  Pub.vcxproj -> C:\Users\home\Downloads\uDDS_VS2017_Trial\uDDS_VS2017_Trial\快速开发资源\DemoTool\PubSub_vs2017\Pub\../bin/VS2017Win32Debug\Pub.exe
